@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 梵刹
+title: '梵刹'
 subtitle: '清净佛土'
 description: '学习终有回报。'
-keywords: richfan,richfree,blog,richfan.cf,blog.richfan.cf,richfan.site
+keywords: 'richfan,richfree,blog,richfan.cf,blog.richfan.cf,richfan.site'
 author: richfan
 language: zh-Hans
 timezone: 'Asia/Shanghai'
